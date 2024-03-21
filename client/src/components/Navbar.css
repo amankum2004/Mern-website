@@ -1,0 +1,21 @@
+nav{
+    max-width: 140rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.logo-brand{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+ul{
+    display: flex;
+    gap: 4rem;
+}
+
+li{
+    list-style: none;
+}
